@@ -82,5 +82,17 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //find restaurants View
+        TextView hotels = (TextView) findViewById(R.id.hotels);
+
+        // Set a click listener on that View
+        hotels.setOnClickListener(new View.OnClickListener() {
+            // The code in this method will be executed when the numbers View is clicked on.
+            @Override
+            public void onClick(View view) {
+                Intent hotelsIntent = new Intent(MainActivity.this, HotelActivity.class);
+                startActivity(hotelsIntent);
+            }
+        });
     }
 }

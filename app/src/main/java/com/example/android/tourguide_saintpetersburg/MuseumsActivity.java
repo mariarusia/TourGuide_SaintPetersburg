@@ -26,7 +26,7 @@ public class MuseumsActivity extends AppCompatActivity {
 
         // Create a Place adapter, whose data source is a list of PlaceToVisit. The
         // adapter knows how to create list items for each item in the list.
-        PlaceAdapter adapter = new PlaceAdapter(this, places, R.color.colorMuseums, R.color.colorRestaurants_brighter);
+        PlaceAdapter adapter = new PlaceAdapter(this, places, R.color.colorMuseums, R.color.colorMuseums_brighter);
 
 
         // Find the {@link ListView} object in the view hierarchy of the {@link Activity}.

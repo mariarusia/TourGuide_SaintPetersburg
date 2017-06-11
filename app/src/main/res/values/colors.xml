@@ -11,5 +11,9 @@
     <color name="colorMuseums_brighter">#7986CB</color>
     <color name="colorAbout">#90CAF9</color>
     <color name="colorRestaurants">#81D4FA</color>
-    <color name="colorRestaurants_brighter"> #4FC3F7</color>
+    <color name="colorRestaurants_brighter">#4FC3F7</color>
+    <color name="hotelColor">#80DEEA</color>
+    <color name="hotelColor_brighter">#4DD0E1</color>
 </resources>
+
+

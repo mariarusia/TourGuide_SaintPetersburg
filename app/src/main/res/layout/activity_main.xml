@@ -79,5 +79,19 @@
                 android:background="?android:attr/selectableItemBackground"
                 android:text="@string/bars_and_restaurants" />
         </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/hotelColor">
+
+            <TextView
+                android:id="@+id/hotels"
+                style="@style/element_of_list_in_main_menue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="?android:attr/selectableItemBackground"
+                android:text="@string/hotels" />
+        </FrameLayout>
     </LinearLayout>
 </ScrollView>

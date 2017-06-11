@@ -6,6 +6,7 @@
     <string name="places_of_interest">Places of interest</string>
     <string name="bars_and_restaurants">Bars and restaurants</string>
     <string name="title_activity_about">AboutActivity</string>
+    <string name="hotels">Hotels</string>
     <string name="title_activity_places">PlacesActivity</string>
 
     <!-- Museums bloc -->
@@ -57,4 +58,20 @@ Although just 300 years old, St. Petersburg has a rich and exciting history, ful
     <string name="fortress">Peter and Paul Fortress</string>>
     <string name="fortress_descripton">The Peter and Paul Fortress is the original citadel of St. Petersburg, Russia, founded by Peter the Great in 1703 and built to Domenico Trezzini\'s designs from 1706 to 1740.[1] In the early 1920s, it was still used as a prison and execution ground by the bolshevik government. Today it has been adapted as the central and most important part of the State Museum of Saint Petersburg History. The museum has gradually become virtually the sole owner of the fortress building, except the structure occupied by the Saint Petersburg Mint.</string>
     <string name="main_page_label">Saint-Petersburg Tour Guide</string>>
+
+    <!-- Hotels bloc -->
+    <string name="hotel_1">Angleterre Hotel</string>>
+    <string name="hotel_1_address">
+        Ul. Malaya Morskaya 24\n
+        St Petersburg\n
+        190000 - Russia\n
+        +7 812 494 5666\n
+        reservation.spb@angleterrehotel.com</string>>
+    <string name="hotel_2">Grand Hotel Europe</string>>
+    <string name="hotel_2_description">
+        Nevsky Prospekt, Mikhailovskaya Ulitsa 1/7\n
+        191186 St Petersburg\n Russia\n
+        +7 812 329 6000\n
+        hotel.ghe@belmond.com\n
+    </string>>
 </resources>
