@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBackground">#E3F2FD</color>
+    <color name="colorPlaces">#B39DDB</color>
+    <color name="colorPlaces_brighter">#9575CD</color>
+    <color name="colorMuseums">#9FA8DA</color>
+    <color name="colorMuseums_brighter">#7986CB</color>
+    <color name="colorAbout">#90CAF9</color>
+    <color name="colorRestaurants">#81D4FA</color>
+    <color name="colorRestaurants_brighter"> #4FC3F7</color>
+</resources>

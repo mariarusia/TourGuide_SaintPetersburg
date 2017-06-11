@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">TourGuide_SaintPetersburg</string>
+    <string name="welcome_line">Saint-Petersburg</string>
+    <string name="about_the_city">About the city</string>
+    <string name="museums">Museums</string>
+    <string name="places_of_interest">Places of interest</string>
+    <string name="bars_and_restaurants">Bars and restaurants</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_places">PlacesActivity</string>
+
+    <!-- Museums bloc -->
+    <string name="hermitage">Hermitage</string>>
+    <string name="hermitage_description">The State Hermitage Museum is a museum of art and culture in Saint Petersburg, Russia. One of the largest and oldest museums in the world, it was founded in 1754 by Catherine the Great and has been open to the public since 1852. Its collections, of which only a small part is on permanent display, comprise over three million items (the numismatic collection accounts for about one third of them) including the largest collection of paintings in the world.</string>
+    <string name="russian_museum">Russian Museum</string>>
+    <string name="russian_museum_description"> The State Russian Museum is the largest depository of Russian fine art in Saint Petersburg. It is also one of the largest museums in the country.
+    The museum was established on April 13, 1895, upon enthronement of Nicholas II to commemorate his father, Alexander III. Its original collection was composed of artworks taken from the Hermitage Museum, Alexander Palace, and the Imperial Academy of Arts.</string>
+    <string name="st_isaac">Saint Isaac\'s Cathedral</string>>
+    <string name="st_isaacs_description">Saint Isaac\'s Cathedral or Isaakievskiy Sobor in Saint Petersburg, Russia, is the largest Russian Orthodox cathedral (sobor) in the city. It is the largest orthodox basilica and the fourth largest (by the volume under the cupola) cathedral in the world.[1] It is dedicated to Saint Isaac of Dalmatia, a patron saint of Peter the Great, who had been born on the feast day of that saint.</string>
+    <string name="spas_na_krovi">Church of the Savior on Spilled Blood</string>>
+    <string name="spas_na_krovi_description">The Church of the Savior on Spilled Blood is one of the main sights of St. Petersburg, Russia. Other names include the Church on Spilled Blood, the Temple of the Savior on Spilled Blood, and the Cathedral of the Resurrection of Christ.</string>
+    <!-- About St.Petersburg -->
+    <string name="StPetersburg_description">One of the world\'s most beautiful cities, St. Petersburg has all the ingredients for an unforgettable travel experience: high art, lavish architecture, wild nightlife, an extraordinary history and rich cultural traditions that have inspired and nurtured some of the modern world\'s greatest literature, music, and visual art. From the mysterious twilight of the White Nights to world-beating opera and ballet productions on magical winter evenings, St. Petersburg charms and entices in every season. Saint-Petersburg.Com is here to help you navigate every aspect of this fascinating city, with all the information and travel resources necessary to plan your trip to St. Petersburg.</string>
+    <string name="history">History</string>
+    <string name="about_hermitage_cats">Hermitage cats</string>
+    <string name="about_st_petersburg">About Saint-Petersburg</string>
+    <string name="history_short">The former capital of a grand and Glorious empire which stretched over much of the globe, St. Petersburg is chock-full of culture and history.
+Although just 300 years old, St. Petersburg has a rich and exciting history, full of dramatic events and major historical figures. Founded in 1703 by Emperor Peter the Great as his "window on the West", St. Petersburg enjoys a vibrant, cosmopolitan atmosphere and some of the most beautiful architecture in Europe. For those interested in culture and history, St. Petersburg is the perfect holiday destination.</string>
+    <string name="hermitage_cat">The Hermitage cats are a group of cats residing in the Hermitage Museum in Saint Petersburg, Russia. The museum has a press secretary dedicated to the cats, and three people act as caretakers. The cats live in the museum\'s basement, and they also appear on the embankment and on the square during the summer. In previous eras they roamed throughout the museum galleries.</string>
+
+    <!-- Restaurants -->
+    <string name="restaurants">Restaurants</string>
+    <string name="restaurant_1">Shamrock</string>>
+    <string name="restaurant_1_description"><b>Type:</b>	Bar, Pub, Restaurant\n
+        <b>Cuisine:</b>	European, International\n
+        <b>Prices:</b>	Moderate ($21 to $50)\n
+        <b>Features:</b>	Banqueting, Breakfast, Outdoor Dining\n
+    </string>
+    <string name="restaurant_2">PIRO.G.I</string>
+    <string name="restaurant_2_description"><b>Type</b>:	Bar, Cafe, Restaurant, Pancake House\n
+        <b>Cuisine</b>:	European, Russian\n
+        <b>Prices</b>:	Budget ($20 and below)\n
+        <b>Features</b>:	Breakfast, Kids Menu</string>
+    <string name="restaurant_3">Demyanova Ukha</string>
+    <string name="restaurant_3_description"><b>Type</b>:    Restaurant\n
+        <b>Cuisine:</b>	European, Fish, Russian\n
+        <b>Prices:</b>	Moderate ($21 to $50)\n
+        <b>Features:</b>	Banqueting, Reservations Recommended</string>
+    <!-- Places bloc -->
+    <string name="palace_square">Palace Square</string>>
+    <string name="palace_square_description">Palace Square, connecting Nevsky Prospekt with Palace Bridge leading to Vasilievsky Island, is the central city square of St Petersburg and of the former Russian Empire. Many significant events took place there, including the Bloody Sunday massacre and parts of the October Revolution of 1917.</string>
+    <string name="peterhof">Peterhof</string>>
+    <string name="peterhof_description">The dominant natural feature of Peterhof Grand Palace is a sixteen-meter-high bluff lying less than a hundred meters from the shore. The so-called Lower Gardens (Nizhny Sad), at 1.02 square kilometers (0.39 sq mi) comprising the better part of the palace complex land area, are confined between this bluff and the shore, stretching east and west for roughly 200 meters (660 ft). The majority of Peterhof\'s fountains are contained here, as are several small palaces and outbuildings. East of the Lower Gardens lies the Alexandria Park with 19th-century Gothic Revival structures such as the Gothic Chapel.</string>
+    >
+    <string name="palace_bridge">Palace Bridge</string>>
+    <string name="palace_bridge_description">Palace Bridge, a road- and foot-traffic bascule bridge, spans the Neva River in Saint Petersburg between Palace Square and Vasilievsky Island. Like every other Neva bridge (except for Big Obukhovsky Bridge), it is drawn by night, making foot travel between various parts of the city virtually impossible. It was built by the French firm Société de Construction des Batignolles between 1912 and 1916.</string>
+    >
+    <string name="fortress">Peter and Paul Fortress</string>>
+    <string name="fortress_descripton">The Peter and Paul Fortress is the original citadel of St. Petersburg, Russia, founded by Peter the Great in 1703 and built to Domenico Trezzini\'s designs from 1706 to 1740.[1] In the early 1920s, it was still used as a prison and execution ground by the bolshevik government. Today it has been adapted as the central and most important part of the State Museum of Saint Petersburg History. The museum has gradually become virtually the sole owner of the fortress building, except the structure occupied by the Saint Petersburg Mint.</string>
+    <string name="main_page_label">Saint-Petersburg Tour Guide</string>>
+</resources>
